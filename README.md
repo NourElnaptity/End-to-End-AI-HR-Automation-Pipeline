@@ -21,7 +21,7 @@ An automated AI-powered Human Resources system designed to streamline the candid
    - Query individual candidates using an integrated Chatbot.
    - The Chatbot retrieves the candidate's exact background context and can answer contextual questions about their experience.
 
-## 🛠 Project Architecture
+##  Project Architecture
 
 The project has been refactored into a scalable modular architecture:
 
@@ -55,7 +55,7 @@ The project has been refactored into a scalable modular architecture:
    streamlit run app.py
    ```
 
-## 📦 Tech Stack
+##  Tech Stack
 - **Frontend / Web UI**: [Streamlit](https://streamlit.io/)
 - **LLM Engine**: [Groq](https://groq.com/) API / Llama 3.3
 - **AI Orchestration**: [LangChain](https://python.langchain.com/)
